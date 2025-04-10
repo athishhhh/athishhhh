@@ -97,8 +97,8 @@
 </p>
 
 ---
+<h1 align="center">💫 About Me</h1>
 
-## 💫 About Me
 - 🎓 AI & Data Science undergrad passionate about building real-world AI solutions  
 - 🔭 Currently working on:  
   &nbsp;&nbsp;&nbsp;&nbsp;• Machine Translation using **mT5**  
@@ -147,8 +147,8 @@
 </div>
 
 ---
+<h1 align="center"> 📊 GitHub Stats</h1>
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athishhhh&theme=radical&show_icons=true&hide_border=true" width="49%"/>
@@ -160,8 +160,8 @@
 </p>
 
 ---
+<h1 align="center"> 🔝 Top Contributed Repositories</h1>
 
-## 🔝 Top Contributed Repositories
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=athishhhh&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
