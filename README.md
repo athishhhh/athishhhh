@@ -2,8 +2,9 @@
   <img src="httpsgithub.comathishhhh.png" alt="Welcome Banner" width="100%"/>
 </p>
 
-
-# 💫 About Me:
+<p align="center">
+  # 💫 About Me
+</p>
 👋 Hi! I’m a passionate AI & Data Science enthusiast.  
 🛠 Currently working on:  
 → Machine Translation using mT5  
