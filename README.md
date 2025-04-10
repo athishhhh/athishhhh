@@ -108,7 +108,7 @@
 - ⚡ Fun fact: I enjoy blending creativity with code to solve problems!
 
 ---
-
+<div align="center">
 ## 🧠 Skills & Tech Stack
 
 ### 🚀 Programming Languages
@@ -143,6 +143,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
+</div>
 
 ---
 
@@ -165,15 +166,15 @@
 </p>
 
 ---
-
+<!--
 ## ✨ Inspirational Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
+-->
 ---
 
-## 🌐 Connect With Me
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/athish-chandrasekaran/">
