@@ -108,7 +108,7 @@
 - ⚡ Fun fact: I enjoy blending creativity with code to solve problems!
 
 ---
-<h1 align="center">## 🧠 Skills & Tech Stack</h1>
+<h1 align="center"> 🧠 Skills & Tech Stack</h1>
 <div align="center">
 
 
