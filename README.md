@@ -235,7 +235,7 @@ These projects reflect my interest in applying AI for both **healthcare innovati
   <img src="https://komarev.com/ghpvc/?username=athishhhh&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 <p align="center">
-  Proudly created with ❤️ by Athish
+   Created with ❤️ by ACK
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
