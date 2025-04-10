@@ -97,7 +97,7 @@
 </p>
 
 ---
-<h1 align="center"> About Me</h1>
+<h1 align="center"> About Me!!</h1>
 
 - 🎓 AI & Data Science undergrad passionate about building real-world AI solutions  
 - 🔭 Currently working on:  
