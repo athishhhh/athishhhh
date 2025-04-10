@@ -190,19 +190,21 @@ These projects reflect my interest in applying AI for both **healthcare innovati
 </div>
 
 ---
-<!--
+
 <h1 align="center"> 📊 GitHub Stats</h1>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athishhhh&theme=radical&show_icons=true&hide_border=true" width="49%"/>
+  <!--
   <img src="https://streak-stats.demolab.com/?user=athishhhh&theme=radical&hide_border=true" width="49%"/>
+  <!--
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishhhh&layout=compact&theme=radical&hide_border=true"/>
 </p>
--->
+
 ---
 
 <h1 align="center"> 🔝 Top Contributed Repositories</h1>
