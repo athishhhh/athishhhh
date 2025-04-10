@@ -108,6 +108,49 @@
 - ⚡ Fun fact: I enjoy blending creativity with code to solve problems!
 
 ---
+## 📂 Featured Projects
+
+### 🔬 [Brain Tumor Identification & Classification](https://github.com/athishhhh/BrainTumor-Identification-Classification)
+
+A deep learning-based system to detect and classify brain tumors using MRI images. This project uses CNN, CNN-LSTM, and U-Net architectures to classify tumors into four types: **Glioma**, **Meningioma**, **Pituitary Tumor**, and **No Tumor**.
+
+- 🧠 **Models Used**:  
+  - CNN: Best for spatial feature extraction (Accuracy: 94.2%)  
+  - CNN + LSTM: Captures spatial + temporal features (Accuracy: 83.08%)  
+  - U-Net: Detailed tumor segmentation (Accuracy: 86.08%)
+
+- 🖼️ **Dataset**: Over 7,000 images from Figshare, SARTAJ, and Br35H (Kaggle)  
+- ⚙️ **Preprocessing**: Resizing, grayscale conversion, normalization, one-hot encoding  
+- 📈 **Evaluation**: Accuracy, Precision, Recall, F1-score, Confusion Matrix  
+- 💡 **Impact**: Improves diagnostic speed, ensures scalable tumor detection, and supports medical professionals with automated analysis.
+
+
+### 🛡️ [Data Poisoning: Label Flipping Attack on Fraud Detection](https://github.com/athishhhh/DataPoisoning-Label-flipping-)
+
+A machine learning security project focused on exposing and mitigating **Label Flipping Attacks** in fraud detection systems.
+
+- 🚨 **Threat Scenario**:
+  - Fraudulent samples are mislabeled as legitimate.
+  - The model learns incorrect patterns and fails to detect fraud.
+  - High false negatives reduce fraud detection effectiveness.
+
+- 🧪 **Objectives**:
+  - Simulate label flipping on a credit card fraud dataset (e.g., flip 30% fraud → non-fraud).
+  - Evaluate performance degradation before & after poisoning.
+  - Detect poisoned samples using **Isolation Forest (Anomaly Detection)**.
+  - Apply corrective mechanisms to restore mislabeled data.
+
+- 🔁 **End-to-End Pipeline**:
+  - Attack simulation → Detection → Defense → Evaluation
+
+- 📉 **Expected Impact**:
+  - Without defense: Increased fraud misclassification.
+  - With defense: Improved model robustness and restored fraud detection capabilities.
+
+These projects reflect my interest in applying AI for both **healthcare innovation** and **machine learning security**.
+
+---
+
 <h1 align="center"> 🧠 Skills & Tech Stack</h1>
 <div align="center">
 
