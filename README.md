@@ -88,7 +88,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/athishhhh/athishhhh/assets/your-banner-image.png" alt="Welcome Banner" width="100%"/>
+  <img src="httpsgithub.comathishhhh (2).png" alt="Welcome Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Athish</h1>
