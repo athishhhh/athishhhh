@@ -41,13 +41,18 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
+<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=athishhhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=athishhhh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=athishhhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=athishhhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=athishhhh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
