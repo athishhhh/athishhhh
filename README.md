@@ -82,7 +82,7 @@
   </a>
   <a href="mailto:athishck1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>👋
+  </a>👋💫
 </p>
 -->
 
@@ -97,7 +97,7 @@
 </p>
 
 ---
-<h1 align="center">💫 About Me</h1>
+<h1 align="center"> About Me</h1>
 
 - 🎓 AI & Data Science undergrad passionate about building real-world AI solutions  
 - 🔭 Currently working on:  
