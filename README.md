@@ -53,15 +53,6 @@
 </div>
 
 
-## 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/athish-chandrasekaran/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:athishck1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 
 <p align="center">
