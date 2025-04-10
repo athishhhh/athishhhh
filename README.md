@@ -190,6 +190,7 @@ These projects reflect my interest in applying AI for both **healthcare innovati
 </div>
 
 ---
+<!--
 <h1 align="center"> 📊 GitHub Stats</h1>
 
 
@@ -201,8 +202,9 @@ These projects reflect my interest in applying AI for both **healthcare innovati
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishhhh&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
+-->
 ---
+
 <h1 align="center"> 🔝 Top Contributed Repositories</h1>
 
 <p align="center">
