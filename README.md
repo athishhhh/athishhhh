@@ -132,9 +132,9 @@ A robust deep learning pipeline designed to detect missiles in real-time, even u
 
 ```mermaid
 graph LR
-A[🖼️ Input Image] --> B[🌫️ Dehazing (DCP)]
-B --> C[🔍 YOLOv8 Detection]
-C --> D[📦 Bounding Boxes + Confidence Scores]
+A[🖼 Input Image] --> B[🌫 Dehazing (DCP)]
+B --> C[ YOLOv8 Detection]
+C --> D[ Bounding Boxes + Confidence Scores]
 ```
 ---
 
