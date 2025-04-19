@@ -116,7 +116,7 @@
 
 A robust deep learning pipeline designed to detect missiles in real-time, even under visually degraded conditions like haze, fog, or smoke. This project combines **image dehazing techniques** with **YOLOv8**, a state-of-the-art object detection model, to significantly boost accuracy and reliability in surveillance and defense scenarios.
 
----
+
 
 ## 📌 Project Highlights
 
@@ -130,7 +130,7 @@ A robust deep learning pipeline designed to detect missiles in real-time, even u
 
 
 
-### 🔬 [Brain Tumor Identification & Classification](https://github.com/athishhhh/BrainTumor-Identification-Classification)
+# 🔬 [Brain Tumor Identification & Classification](https://github.com/athishhhh/BrainTumor-Identification-Classification)
 
 A deep learning-based system to detect and classify brain tumors using MRI images. This project uses CNN, CNN-LSTM, and U-Net architectures to classify tumors into four types: **Glioma**, **Meningioma**, **Pituitary Tumor**, and **No Tumor**.
 
@@ -145,7 +145,7 @@ A deep learning-based system to detect and classify brain tumors using MRI image
 - 💡 **Impact**: Improves diagnostic speed, ensures scalable tumor detection, and supports medical professionals with automated analysis.
 
 
-### 🛡️ [Data Poisoning: Label Flipping Attack on Fraud Detection](https://github.com/athishhhh/DataPoisoning-Label-flipping-)
+# 🛡️ [Data Poisoning: Label Flipping Attack on Fraud Detection](https://github.com/athishhhh/DataPoisoning-Label-flipping-)
 
 A machine learning security project focused on exposing and mitigating **Label Flipping Attacks** in fraud detection systems.
 
