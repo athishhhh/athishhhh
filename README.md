@@ -110,6 +110,33 @@
 ---
 ## 📂 Featured Projects
 
+
+# [🚀 Real-Time Missile Detection with YOLOv8 and Dehaze-Based Optimization](https://github.com/athishhhh/Dehaze-Enhanced-Training-for-Missile-Detection-Using-YOLOv8)
+
+
+A robust deep learning pipeline designed to detect missiles in real-time, even under visually degraded conditions like haze, fog, or smoke. This project combines **image dehazing techniques** with **YOLOv8**, a state-of-the-art object detection model, to significantly boost accuracy and reliability in surveillance and defense scenarios.
+
+---
+
+## 📌 Project Highlights
+
+- 🔍 **YOLOv8 Detection**: Fast and accurate missile detection with Ultralytics YOLOv8.
+- 🌫️ **Image Dehazing**: Preprocessing with the Dark Channel Prior (DCP) technique to improve clarity and contrast.
+- 📊 **Evaluation**: Performance metrics include mAP, Precision, Recall — measured on both original and dehazed datasets.
+- 📁 **Dataset**: 6,500+ labeled images from Roboflow's [Missile Detection Dataset](https://universe.roboflow.com/sanket-gurav/missile-detection).
+- 🧪 **Use Case**: Mission-critical applications like national defense, missile warning systems, and smart surveillance.
+
+---
+
+## 🧠 Pipeline Overview
+
+```mermaid
+graph LR
+A[🖼️ Input Image] --> B[🌫️ Dehazing (DCP)]
+B --> C[🔍 YOLOv8 Detection]
+C --> D[📦 Bounding Boxes + Confidence Scores]
+
+
 ### 🔬 [Brain Tumor Identification & Classification](https://github.com/athishhhh/BrainTumor-Identification-Classification)
 
 A deep learning-based system to detect and classify brain tumors using MRI images. This project uses CNN, CNN-LSTM, and U-Net architectures to classify tumors into four types: **Glioma**, **Meningioma**, **Pituitary Tumor**, and **No Tumor**.
