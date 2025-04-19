@@ -128,15 +128,6 @@ A robust deep learning pipeline designed to detect missiles in real-time, even u
 
 ---
 
-## 🧠 Pipeline Overview
-
-```mermaid
-graph LR
-A[🖼 Input Image] --> B[🌫 Dehazing (DCP)]
-B --> C[ YOLOv8 Detection]
-C --> D[ Bounding Boxes + Confidence Scores]
-```
----
 
 
 ### 🔬 [Brain Tumor Identification & Classification](https://github.com/athishhhh/BrainTumor-Identification-Classification)
