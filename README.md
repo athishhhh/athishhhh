@@ -110,7 +110,19 @@
 ---
 ## 📂 Featured Projects
 
+### [💸 AI-Expense Analyzer & Tracker — Zuno.AI](https://github.com/athishhhh/Ai-Expense-Analyzer-and-tracker-Zuno.Ai)
 
+Zuno AI is a smart financial assistant that tracks and analyzes your expenses using **Retrieval-Augmented Generation (RAG)**, **semantic search**, and **file-based reasoning**. It helps users gain deeper insights into spending and savings, powered by real document uploads.
+
+**🔹 Highlights:**
+- 🔗 **File Upload + RAG**: Analyze financial documents like bank statements in real time  
+- 📚 **Knowledge-Driven Responses**: Fine-tuned chatbot with custom instructions  
+- 🔍 **Semantic Search**: Powered by vector similarity & contextual matching  
+- 🖥️ **Modern UI/UX**: Sleek, responsive interface with Tailwind CSS  
+- 🗂️ **Local DB Integration**: Personalized insights from stored user data  
+- 💡 Ideal for: Students, freelancers, or anyone wanting smarter money management
+
+---
 # [🚀 Real-Time Missile Detection with YOLOv8 and Dehaze-Based Optimization](https://github.com/athishhhh/Dehaze-Enhanced-Training-for-Missile-Detection-Using-YOLOv8)
 
 
