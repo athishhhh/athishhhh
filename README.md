@@ -114,7 +114,7 @@
 
 Zuno AI is a smart financial assistant that tracks and analyzes your expenses using **Retrieval-Augmented Generation (RAG)**, **semantic search**, and **file-based reasoning**. It helps users gain deeper insights into spending and savings, powered by real document uploads.
 
-##🔹 Highlights:**
+## 📌 Project Highlights
 - 🔗 **File Upload + RAG**: Analyze financial documents like bank statements in real time  
 - 📚 **Knowledge-Driven Responses**: Fine-tuned chatbot with custom instructions  
 - 🔍 **Semantic Search**: Powered by vector similarity & contextual matching  
